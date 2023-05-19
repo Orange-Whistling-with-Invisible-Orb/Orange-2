@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/background">
+        <file>resource/background/piYw+M.jpg</file>
+        <file>resource/background/start_page.png</file>
+        <file>resource/background/icon.png</file>
+        <file>resource/background/tla61N.jpg</file>
+        <file>resource/background/UOgyRq.jpg</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>resource/icon/rule.png</file>
+        <file>resource/icon/start.png</file>
+        <file>resource/icon/quit.png</file>
+        <file>resource/icon/back.png</file>
+        <file>resource/icon/shot.png</file>
+    </qresource>
+    <qresource prefix="/MainCharacter_feet">
+        <file>resource/MainCharacter/feet/idle/survivor-idle_0.png</file>
+        <file>resource/MainCharacter/feet/run/survivor-run_0.png</file>
+        <file>resource/MainCharacter/feet/run/survivor-run_2.png</file>
+        <file>resource/MainCharacter/feet/run/survivor-run_4.png</file>
+        <file>resource/MainCharacter/feet/run/survivor-run_6.png</file>
+        <file>resource/MainCharacter/feet/run/survivor-run_8.png</file>
+        <file>resource/MainCharacter/feet/run/survivor-run_10.png</file>
+        <file>resource/MainCharacter/feet/run/survivor-run_12.png</file>
+        <file>resource/MainCharacter/feet/run/survivor-run_14.png</file>
+        <file>resource/MainCharacter/feet/run/survivor-run_16.png</file>
+        <file>resource/MainCharacter/feet/run/survivor-run_18.png</file>
+    </qresource>
+    <qresource prefix="/MainCharacter_body_knife">
+        <file>resource/MainCharacter/knife/idle/survivor-idle_knife_0.png</file>
+        <file>resource/MainCharacter/knife/meleeattack/survivor-meleeattack_knife_0.png</file>
+        <file>resource/MainCharacter/knife/meleeattack/survivor-meleeattack_knife_2.png</file>
+        <file>resource/MainCharacter/knife/meleeattack/survivor-meleeattack_knife_4.png</file>
+        <file>resource/MainCharacter/knife/meleeattack/survivor-meleeattack_knife_6.png</file>
+        <file>resource/MainCharacter/knife/meleeattack/survivor-meleeattack_knife_8.png</file>
+        <file>resource/MainCharacter/knife/meleeattack/survivor-meleeattack_knife_10.png</file>
+        <file>resource/MainCharacter/knife/meleeattack/survivor-meleeattack_knife_12.png</file>
+        <file>resource/MainCharacter/knife/meleeattack/survivor-meleeattack_knife_14.png</file>
+    </qresource>
+</RCC>
